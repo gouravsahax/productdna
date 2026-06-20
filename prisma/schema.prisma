@@ -17,4 +17,5 @@ model Product {
   title       String 
   description String 
   imageURL    String
+  amazonLink  String
 }
